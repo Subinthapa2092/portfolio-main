@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "subin-94a7d"
+  },
+  "targets": {
+    "subin-94a7d": {
+      "hosting": {
+        "site": [
+          "subinthapa"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
